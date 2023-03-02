@@ -1,0 +1,3 @@
+Bundle-Name: frontend-editor-ckeditor-configuration
+Bundle-SymbolicName: custom.ckeditor.configuration
+Bundle-Version: 1.0.0

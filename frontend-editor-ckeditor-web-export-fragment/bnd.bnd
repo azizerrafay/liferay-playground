@@ -1,0 +1,7 @@
+Bundle-Name:  Liferay CKEditor Export Fragment
+
+Bundle-SymbolicName: com.liferay.frontend.editor.ckeditor.web.export.fragment
+
+Fragment-Host: com.liferay.frontend.editor.ckeditor.web;bundle-version="5.0.70"
+
+Export-Package: com.liferay.frontend.editor.ckeditor.web.internal.editor.configuration
